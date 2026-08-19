@@ -10,3 +10,4 @@ import AbbaLean.ShortInvertFull
 import AbbaLean.HcCount
 import AbbaLean.HcCard
 import AbbaLean.TwistedPi
+import AbbaLean.ShortInvertTower

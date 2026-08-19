@@ -6,3 +6,5 @@ import AbbaLean.UnitDensity
 import AbbaLean.Structure
 import AbbaLean.StructureInert
 import AbbaLean.StructureFiniteField
+import AbbaLean.ShortInvertFull
+import AbbaLean.HcCount

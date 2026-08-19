@@ -36,8 +36,8 @@ theorem card_units_pi :
   have h : Nat.card (Matrix (Fin 2) (Fin 2) 𝔽)ˣ = (q ^ 2 - 1) * (q ^ 2 - q) := card_GL2 𝔽
   simp [h, Finset.prod_const, Finset.card_univ, Fintype.card_fin]
 
-/-- Cardinality of the ambient space: `|∏ M₂(𝔽_q)| = q^(4n)`. -/
 omit [Field 𝔽] in
+/-- Cardinality of the ambient space: `|∏ M₂(𝔽_q)| = q^(4n)`. -/
 theorem card_pi : Nat.card (Fin n → Matrix (Fin 2) (Fin 2) 𝔽) = q ^ (4 * n) := by
   rw [Nat.card_pi]
   have h : Nat.card (Matrix (Fin 2) (Fin 2) 𝔽) = q ^ 4 := by

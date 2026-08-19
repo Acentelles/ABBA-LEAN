@@ -5,3 +5,4 @@ import AbbaLean.Cap
 import AbbaLean.UnitDensity
 import AbbaLean.Structure
 import AbbaLean.StructureInert
+import AbbaLean.StructureFiniteField

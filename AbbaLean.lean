@@ -21,3 +21,5 @@ import AbbaLean.StructureFactor
 import AbbaLean.StructureNumberField
 import AbbaLean.StructureFixed
 import AbbaLean.AbbaInstance
+import AbbaLean.Polish
+import AbbaLean.AbbaTransport

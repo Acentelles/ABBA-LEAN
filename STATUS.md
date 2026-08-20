@@ -1,6 +1,6 @@
 # ABBA: verification status of the paper's results
 
-Final status as of 2026-08-20. Lean project: `~/dev/abba-lean` (Lean 4.33, Mathlib v4.33, 25 modules, 14 commits `a575359` through `6c57e3e`, each a green `lake build` with zero `sorry`). Sage battery: `abba_checks.sage` and the distributional check (session scratchpad), all passing. Caveat: Lean verifies the statements as transcribed into `AbbaLean/*.lean`; the correspondence with the LaTeX statements is by inspection. "Numerical (exact)" means exhaustive or exact-rational computation, not sampling.
+Final status as of 2026-08-20. Lean project: `~/dev/abba-lean` (Lean 4.33, Mathlib v4.33, 25 modules, 15 commits `cb84b9f` through `e23abd9`, each a green `lake build` with zero `sorry`). Sage battery: `abba_checks.sage` and the distributional check (session scratchpad), all passing. Caveat: Lean verifies the statements as transcribed into `AbbaLean/*.lean`; the correspondence with the LaTeX statements is by inspection. "Numerical (exact)" means exhaustive or exact-rational computation, not sampling.
 
 ## Results this project worked on
 

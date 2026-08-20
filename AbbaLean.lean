@@ -17,3 +17,5 @@ import AbbaLean.StructureCRT
 import AbbaLean.StructureGlobal
 import AbbaLean.StructureDischarge
 import AbbaLean.Hilbert90
+import AbbaLean.StructureFactor
+import AbbaLean.StructureNumberField

@@ -23,6 +23,8 @@ namespace Abba
 
 namespace Twisted
 
+open Function
+
 section CRT
 
 variable {A B : Type*} [CommRing A] [CommRing B] [Algebra A B]

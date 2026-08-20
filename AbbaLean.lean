@@ -13,3 +13,6 @@ import AbbaLean.TwistedPi
 import AbbaLean.ShortInvertTower
 import AbbaLean.StructureUniform
 import AbbaLean.StructureQuot
+import AbbaLean.StructureCRT
+import AbbaLean.StructureGlobal
+import AbbaLean.StructureDischarge

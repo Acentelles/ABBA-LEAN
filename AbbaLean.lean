@@ -20,3 +20,4 @@ import AbbaLean.Hilbert90
 import AbbaLean.StructureFactor
 import AbbaLean.StructureNumberField
 import AbbaLean.StructureFixed
+import AbbaLean.AbbaInstance

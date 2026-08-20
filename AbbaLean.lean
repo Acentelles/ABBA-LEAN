@@ -11,3 +11,5 @@ import AbbaLean.HcCount
 import AbbaLean.HcCard
 import AbbaLean.TwistedPi
 import AbbaLean.ShortInvertTower
+import AbbaLean.StructureUniform
+import AbbaLean.StructureQuot
